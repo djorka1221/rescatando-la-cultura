@@ -1,0 +1,94 @@
+.titulo{
+	text-align: center;
+	font-size: 25px;
+	font-family: arial;
+	font-weight: bold;
+}
+.cuerpo{
+	background-color: #D7DFDB;
+}
+.logo{
+	width: 130px; 
+	height: 100px;
+}
+.texto{
+	text-align: justify;
+	font-size: 18px;
+	font-family: arial;
+}
+.logo1{
+	width: 100px; 
+	height: 100px;
+}
+.caja{
+	border:2px solid;
+	margin-left: 10px;
+	font-family: "RobotoCondensedLight";
+	font-size: 18px;
+	line-height: 1.5;
+	width: 80%
+	margin: 1em auto;
+	padding: 1em 5%;
+}
+.buttons{
+
+	border: 1px solid #2e518b; 
+	margin-bottom: 40px;
+	padding: 10px; 
+	background-color: #2e518b; 
+	color: #ffffff; 
+	text-decoration: none; 
+	font-family: 'Helvetica', sans-serif; 
+	border-radius: 50px;
+
+}
+.buttons1{
+
+	border: 1px solid #2e518b; 
+	margin-bottom: 40px;
+	padding: 10px; 
+	background-color: #2e518b; 
+	color: #ffffff; 
+	text-decoration: none; 
+	font-family: 'Helvetica', sans-serif; 
+	border-radius: 50px;
+
+}
+
+.buttons2{
+
+	border: 1px solid #2e518b; 
+	margin-bottom: 40px;
+	padding: 10px; 
+	background-color: #2e518b; 
+	color: #ffffff; 
+	text-decoration: none; 
+	font-family: 'Helvetica', sans-serif; 
+	border-radius: 50px;
+
+}
+.socialbar{
+	font-family: "RobotoCondensedLight";
+	font-size: 18px;
+}
+.bar1{
+	font-family: "RobotoCondensedLight";
+	float: left;
+	line-height: 25px;
+}
+.bar2{
+	font-family: "RobotoCondensedLight";
+	float: left;
+	line-height: 25px;
+}
+.bar3{
+	font-family: "RobotoCondensedLight";
+	float: left;
+	line-height: 25px;
+}
+.titulo2{
+	text-align: left;
+	font-size: 20px;
+	font-family: arial;
+	font-weight: bold;
+}
